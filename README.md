@@ -16,8 +16,7 @@ The stores table
 The Exchange Rates table
 
 The data dictionary gives a clearer look at the table fields and descriptions
-![Data dictionary used in the project](https://docs.google.com/document/d/1Jn_ul2hrqg2bfoxtWKg5K-rc6da1tU60g7mn0y0qyqs/edit?usp=sharing)
-
+![Data dictionary used in the project](https://github.com/DannyDalo/techsphere-analysis/blob/main/datasets/unnamed.png)
 
 
 
