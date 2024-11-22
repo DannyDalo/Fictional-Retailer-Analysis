@@ -24,7 +24,8 @@ You can find it here: [Data Dictionary](datasets/Data_Dictionary.csv).
 <br/>
 
 ## **<ins>How to run this project<ins/>**
-+ Clone this repository
++ Clone this repository locally: git clone https://github.com/DannyDalo/techsphere-analysis.git
++ Ensure you have the required libraries, tools and packages installed (anaconda, your favorite  text editor, pandas).
 + 
 
 
