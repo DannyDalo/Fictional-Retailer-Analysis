@@ -8,15 +8,14 @@ The main objectives of this project is to provide insights into sales performanc
 
 
 ## <ins>Description of datasets</ins>
-The dataset used for this project includes 5 tables.
-The sales table
-The customers table
-The products table
-The stores table
-The Exchange Rates table
+The dataset used for this project was gathered from the [maven analytics data playground](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added,desc&page=2&pageSize=5) and includes 5 tables and a data dictionary.
 
-The data dictionary gives a clearer look at the table fields and descriptions
+The data dictionary gives a clearer look at the table fields and descriptions.
 You can find it here: [Data Dictionary](datasets/Data_Dictionary.csv).
+
+
+
+
 
 
 
