@@ -26,7 +26,9 @@ You can find it here: [Data Dictionary](datasets/Data_Dictionary.csv).
 ## **<ins>How to run this project<ins/>**
 + Clone this repository locally: git clone https://github.com/DannyDalo/techsphere-analysis.git
 + Ensure you have the required libraries, tools and packages installed (anaconda, your favorite  text editor, pandas).
-+ 
++ Explore the data; read the data dictionary to understand each table's role in the project.
++ View the reports document to see the codes, output, and thought processes in one place.
++ View powerpoint slide presentation for the non-technical, clearer business aspect of the project.
 
 
 
